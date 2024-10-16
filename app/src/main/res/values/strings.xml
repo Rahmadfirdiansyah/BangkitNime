@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">BangkitNime</string>
+
+    <string name="karakter_name">
+        Nama Karakter
+    </string>
+
+    <string name="description">
+        Deskripsi
+    </string>
+
+    <!-- Menu -->
+    <string name="about">About</string>
+
+    <!-- about -->
+    <string name="namaku">Rahmad firdiansyah</string>
+    <string name="Emailku">Rahmadfirdiansyah@gmail.com</string>
+
+    <!-- data -->
+    <string-array name="data_name">
+        <item>Natsuki Subaru</item>
+        <item>Guts</item>
+        <item>Rimuru Tempest</item>
+        <item>Ainz Ooal Gown</item>
+        <item>Naofumi Iwatani</item>
+        <item>Rudeus Greyrat</item>
+        <item>Touya Mochizuki</item>
+        <item>Kirito Kazuto</item>
+        <item>Senku Ishigami</item>
+        <item>Kazuma Sato</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Natsuki Subaru (ナツキ・スバル) adalah protagonis utama dari Re:Zero kara Hajimeru Isekai Seikatsu. Dia adalah mantan hikikomori yang dipindahkan ke Lugunica melalui cara yang tidak diketahui, diberikan Otoritas yang dia sebut "Kembali dengan Kematian" oleh Satella, dan bertemu dengan Calon Pemilih Kerajaan, Emilia.</item>
+        <item>Guts, yang terkenal sebagai "Pencabut Pedang Hitam", adalah mantan tentara bayaran dan pengembara yang terasing yang berkelana di dunia sambil terus berjuang di dalam dirinya antara mengejar tujuannya sendiri dan mempertahankan ikatannya dengan orang-orang yang ia cintai.</item>
+        <item>Rimuru Tempest (リムル＝テンペスト, rimuru tenpesuto) adalah tokoh utama dari anime "That Time I Got Reincarnated as a Slime" dan merupakan reinkarnasi dari Satoru Mikami.</item>
+        <item>Ainz Ooal Gown (アインズ・ウール・ゴウン), yang sebelumnya dikenal sebagai Momonga (モモンガ), adalah tokoh utama dari seri Overlord. Dia adalah master guild Ainz Ooal Gown, Overlord dari Makam Agung Nazarick, dan pencipta Pandoras Actor. Dia dianggap sebagai yang tertinggi dari Empat Puluh Satu Makhluk Tertinggi oleh NPC di Nazarick.</item>
+        <item>Naofumi Iwatani (岩谷尚文 Iwatani Naofumi?) adalah protagonis dari seri The Rising of the Shield Hero. Dia dipanggil ke dunia lain untuk menjadi Shield Hero (盾の勇者 Tate no Yuusha?), salah satu dari Empat Pahlawan Legendaris.</item>
+        <item>Rudeus Greyrat (ルーデウス・グレイラット Rūdeusu Gureiratto) adalah tokoh utama dalam Mushoku Tensei. Dia adalah seorang NEET Jepang berusia 34 tahun yang kelebihan berat badan dan bereinkarnasi ke dunia lain setelah ditabrak truk saat menyelamatkan beberapa anak. Menyadari bahwa dia telah menghabiskan hidupnya yang sebelumnya, dia bertekad untuk menjalani kehidupan baru ini sepenuh hati dan seri ini berfokus pada bagaimana dia memengaruhi dunia barunya sambil perlahan-lahan keluar dari sifatnya yang tertutup.</item>
+        <item>Touya Mochizuki (望月冬夜 Mochizuki Tōya?) adalah seorang pemuda yang terlahir kembali ke dunia lain dengan bantuan dari Tuhan, yaitu smartphone-nya, setelah secara tidak sengaja dibunuh oleh Tuhan. Kemudian terungkap bahwa Tuhan membuat tubuhnya dari materi Alam Ilahi yang memberinya kekuatan fisik dan magis yang luar biasa.</item>
+        <item>Kirigaya Kazuto (桐ヶ谷 和人, Kirigaya Kazuto?), lahir dengan nama Narusaka Kazuto (鳴坂 和人なるさか かずと, Narusaka Kazuto?), dan dikenal sebagai Kirito (キリト, Kirito?) di «Sword Art Online» (SAO), «ALfheim Online» (ALO), «Gun Gale Online» (GGO), «Project Alicization», dan Unital Ring, adalah tokoh utama dari seri utama Sword Art Online.</item>
+        <item>Senku Ishigami (石いし神がみ千せん空くう Ishigami Senkū) adalah tokoh utama di Dr. Stone, dan dia berteman dengan Taiju Oki dan Yuzuriha Ogawa. Dia dibebaskan dari kepetrahan setengah tahun sebelum Taiju, dan akhirnya menciptakan Cairan Kebangkitan dengan bantuan Taiju. Di Dunia Batu, tujuan Senku adalah membangun kembali peradaban dan mendirikan Kerajaan Sains.</item>
+        <item>Kazuma Satou (佐藤さとう 和真かずま) (nama depan Kazuma, nama belakang Satou) adalah tokoh utama dari seri KonoSuba. Dia adalah seorang hikikomori yang menghabiskan hari-harinya untuk bermain video game hingga mati dengan cara yang memalukan, dan kemudian terlahir kembali ke Dunia Paralel bersama Dewi Air, Aqua, untuk mengalahkan Raja Iblis.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/subaru</item>
+        <item>@drawable/guts</item>
+        <item>@drawable/rimuru</item>
+        <item>@drawable/ainz</item>
+        <item>@drawable/naofumi</item>
+        <item>@drawable/rudeus</item>
+        <item>@drawable/touya</item>
+        <item>@drawable/kirito</item>
+        <item>@drawable/senku</item>
+        <item>@drawable/kazuma</item>
+    </integer-array>
+
+</resources>
